@@ -1,0 +1,130 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+0.1.0 - First Release	/Users/kbthomp1/atom_packages/fortran-syntax/CHANGELOG.md	/^## 0.1.0 - First Release$/;"	function	line:1
+name	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "name": "fortran-syntax",$/;"	function	line:2
+theme	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "theme": "syntax",$/;"	function	line:3
+version	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "version": "0.0.0",$/;"	function	line:4
+description	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "description": "A short description of your syntax theme",$/;"	function	line:5
+keywords	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "keywords": [$/;"	function	line:6
+repository	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "repository": "https:\/\/github.com\/atom\/fortran-syntax",$/;"	function	line:10
+license	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "license": "MIT",$/;"	function	line:11
+engines	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^  "engines": {$/;"	function	line:12
+atom	/Users/kbthomp1/atom_packages/fortran-syntax/package.json	/^    "atom": ">=1.0.0 <2.0.0"$/;"	function	line:13
+fortran-syntax theme	/Users/kbthomp1/atom_packages/fortran-syntax/README.md	/^# fortran-syntax theme$/;"	function	line:1
+atom-text-editor, :host	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^atom-text-editor, :host {$/;"	function	line:3
+.wrap-guide	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .wrap-guide {$/;"	function	line:7
+.indent-guide	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .indent-guide {$/;"	function	line:11
+.invisible-character	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .invisible-character {$/;"	function	line:15
+.gutter	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .gutter {$/;"	function	line:19
+.line-number	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    .line-number {$/;"	function	line:23
+&.cursor-line	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^      &.cursor-line {$/;"	function	line:24
+&.cursor-line-no-selection	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^      &.cursor-line-no-selection {$/;"	function	line:29
+.gutter .line-number.folded	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .gutter .line-number.folded,$/;"	function	line:35
+.gutter .line-number:after	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .gutter .line-number:after,$/;"	function	line:36
+.fold-marker:after	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .fold-marker:after {$/;"	function	line:37
+.invisible	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .invisible {$/;"	function	line:41
+.cursor	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .cursor {$/;"	function	line:45
+.selection .region	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  .selection .region {$/;"	function	line:49
+atom-text-editor .search-results .marker .region	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^atom-text-editor .search-results .marker .region,$/;"	function	line:54
+:host .search-results .marker .region	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^:host .search-results .marker .region {$/;"	function	line:55
+atom-text-editor .search-results .marker.current-result .region	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^atom-text-editor .search-results .marker.current-result .region,$/;"	function	line:60
+:host .search-results .marker.current-result .region	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^:host .search-results .marker.current-result .region {$/;"	function	line:61
+.comment	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.comment {$/;"	function	line:65
+.keyword	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.keyword {$/;"	function	line:69
+&.control	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.control {$/;"	function	line:72
+&.operator	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.operator {$/;"	function	line:76
+&.other.special-method	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.other.special-method {$/;"	function	line:80
+&.other.unit	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.other.unit {$/;"	function	line:84
+.storage	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.storage {$/;"	function	line:89
+.constant	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.constant {$/;"	function	line:93
+&.character.escape	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.character.escape {$/;"	function	line:96
+&.numeric	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.numeric {$/;"	function	line:100
+&.other.color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.other.color {$/;"	function	line:104
+&.other.symbol	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.other.symbol {$/;"	function	line:108
+.variable	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.variable {$/;"	function	line:113
+&.interpolation	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.interpolation {$/;"	function	line:116
+&.parameter.function	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.parameter.function {$/;"	function	line:120
+.invalid.illegal	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.invalid.illegal {$/;"	function	line:125
+.string	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.string {$/;"	function	line:130
+&.regexp	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.regexp {$/;"	function	line:134
+.source.ruby.embedded	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    .source.ruby.embedded {$/;"	function	line:137
+&.other.link	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.other.link {$/;"	function	line:142
+.punctuation	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.punctuation {$/;"	function	line:147
+&.definition	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.definition {$/;"	function	line:148
+&.comment	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.comment {$/;"	function	line:149
+&.string	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.string,$/;"	function	line:153
+&.variable	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.variable,$/;"	function	line:154
+&.parameters	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.parameters,$/;"	function	line:155
+&.array	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.array {$/;"	function	line:156
+&.heading	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.heading,$/;"	function	line:160
+&.identity	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.identity {$/;"	function	line:161
+&.bold	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.bold {$/;"	function	line:165
+&.italic	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.italic {$/;"	function	line:170
+&.section.embedded	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.section.embedded {$/;"	function	line:176
+.support	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.support {$/;"	function	line:182
+&.class	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.class {$/;"	function	line:183
+&.function	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.function  {$/;"	function	line:187
+&.any-method	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.any-method {$/;"	function	line:190
+.entity	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.entity {$/;"	function	line:196
+&.name.function	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.name.function {$/;"	function	line:197
+&.name.type	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.name.type {$/;"	function	line:200
+&.other.inherited-class	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.other.inherited-class {$/;"	function	line:205
+&.name.class, &.name.type.class	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.name.class, &.name.type.class {$/;"	function	line:208
+&.name.section	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.name.section {$/;"	function	line:212
+&.name.tag	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.name.tag {$/;"	function	line:216
+&.other.attribute-name	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.other.attribute-name {$/;"	function	line:221
+&.id	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^    &.id {$/;"	function	line:224
+.meta	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.meta {$/;"	function	line:230
+&.class	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.class {$/;"	function	line:231
+&.link	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.link {$/;"	function	line:235
+&.require	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.require {$/;"	function	line:239
+&.selector	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.selector {$/;"	function	line:243
+&.separator	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.separator {$/;"	function	line:247
+.none	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.none {$/;"	function	line:253
+.markup	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.markup {$/;"	function	line:257
+&.bold	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.bold {$/;"	function	line:258
+&.changed	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.changed {$/;"	function	line:263
+&.deleted	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.deleted {$/;"	function	line:267
+&.italic	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.italic {$/;"	function	line:271
+&.heading .punctuation.definition.heading	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.heading .punctuation.definition.heading {$/;"	function	line:276
+&.inserted	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.inserted {$/;"	function	line:280
+&.list	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.list {$/;"	function	line:284
+&.quote	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.quote {$/;"	function	line:288
+&.raw.inline	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.raw.inline {$/;"	function	line:292
+.source.gfm .markup	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^.source.gfm .markup {$/;"	function	line:297
+&.heading	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^  &.heading {$/;"	function	line:299
+atom-text-editor[mini] .scroll-view	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^atom-text-editor[mini] .scroll-view,$/;"	function	line:304
+:host([mini]) .scroll-view	/Users/kbthomp1/atom_packages/fortran-syntax/styles/base.less	/^:host([mini]) .scroll-view {$/;"	function	line:305
+very-light-gray	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@very-light-gray: #c5c8c6;$/;"	function	line:3
+light-gray	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@light-gray: #969896;$/;"	function	line:4
+gray	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@gray: #373b41;$/;"	function	line:5
+dark-gray	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@dark-gray: #282a2e;$/;"	function	line:6
+very-dark-gray	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@very-dark-gray: #1d1f21;$/;"	function	line:7
+cyan	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@cyan: #8abeb7;$/;"	function	line:9
+blue	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@blue: #81a2be;$/;"	function	line:10
+purple	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@purple: #b294bb;$/;"	function	line:11
+green	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@green: #b5bd68;$/;"	function	line:12
+red	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@red: #cc6666;$/;"	function	line:13
+orange	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@orange: #de935f;$/;"	function	line:14
+light-orange	/Users/kbthomp1/atom_packages/fortran-syntax/styles/colors.less	/^@light-orange: #f0c674;$/;"	function	line:15
+syntax-text-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-text-color: @very-light-gray;$/;"	function	line:7
+syntax-cursor-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-cursor-color: white;$/;"	function	line:8
+syntax-selection-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-selection-color: lighten(@dark-gray, 20%);$/;"	function	line:9
+syntax-background-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-background-color: @dark-gray;$/;"	function	line:10
+syntax-wrap-guide-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-wrap-guide-color: @dark-gray;$/;"	function	line:13
+syntax-indent-guide-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-indent-guide-color: @gray;$/;"	function	line:14
+syntax-invisible-character-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-invisible-character-color: @gray;$/;"	function	line:15
+syntax-result-marker-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-result-marker-color: @light-gray;$/;"	function	line:18
+syntax-result-marker-color-selected	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-result-marker-color-selected: white;$/;"	function	line:19
+syntax-gutter-text-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-gutter-text-color: white;$/;"	function	line:23
+syntax-gutter-text-color-selected	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-gutter-text-color-selected: @syntax-gutter-text-color;$/;"	function	line:24
+syntax-gutter-background-color	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-gutter-background-color: @dark-gray;$/;"	function	line:25
+syntax-gutter-background-color-selected	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-gutter-background-color-selected: @gray;$/;"	function	line:26
+syntax-color-renamed	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-color-renamed: @blue;$/;"	function	line:29
+syntax-color-added	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-color-added: @green;$/;"	function	line:30
+syntax-color-modified	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-color-modified: @orange;$/;"	function	line:31
+syntax-color-removed	/Users/kbthomp1/atom_packages/fortran-syntax/styles/syntax-variables.less	/^@syntax-color-removed: @red;$/;"	function	line:32
