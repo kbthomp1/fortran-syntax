@@ -2,12 +2,13 @@
   "name": "fortran-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "A simple syntax theme that plays well for fortran."
   "keywords": [
     "syntax",
+    "fortran",
     "theme"
   ],
-  "repository": "https://github.com/atom/fortran-syntax",
+  "repository": "https://github.com/kbthomp1/fortran-syntax"
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
