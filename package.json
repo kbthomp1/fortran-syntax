@@ -2,7 +2,7 @@
   "name": "fortran-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A simple syntax theme that plays well for fortran."
+  "description": "A simple syntax theme that plays well for fortran.",
   "keywords": [
     "syntax",
     "fortran",
