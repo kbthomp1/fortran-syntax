@@ -1,7 +1,7 @@
 {
   "name": "fortran-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple syntax theme that plays well for fortran.",
   "keywords": [
     "syntax",
